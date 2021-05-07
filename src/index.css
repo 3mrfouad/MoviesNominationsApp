@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.fs-sm {
+  font-size: 0.65em;
+}
+
+.fs-md {
+  font-size: 0.85em;
+}
+
+.fs-xs {
+  font-size: 13px;
+}
+
+.btn-remove-styles {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.green-color {
+  color: #28a745;
+}
+
+.bg-color-green {
+  background-color: #28a745;
+}
+
+.red-color {
+  color: red;
+}
+
+.btn-custom {
+  font-size: 1.25em;
+  margin-left: auto;
+  margin-top: auto;
+}
+
+.btn-custom:hover {
+  transform: scale(1.25);
+}
+
+.icons {
+  color: #2b302c94;
+}
+
+.anchor {
+  color: black;
+  font-weight: bold;
+}
+
+.anchor:hover {
+  color: #2b302c94;
+  opacity: 0.75;
+  text-decoration: none;
+}
+
+.stars {
+  transform: scale(0.75);
+  color: orange;
+}
+
+.movie-poster {
+  width: 125px;
+  height: auto;
+}
+
+.noResult {
+  color: #2b302c94;
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+@media screen and (max-width: 400px) {
+  .hide-on-mobile {
+    display: none;
+  }
+}
