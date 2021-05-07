@@ -1,0 +1,118 @@
+[
+  {
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Year": "1977",
+    "Rated": "PG",
+    "Released": "25 May 1977",
+    "Runtime": "121 min",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "Director": "George Lucas",
+    "Writer": "George Lucas",
+    "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
+    "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "Won 6 Oscars. Another 57 wins & 29 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "90/100"
+      }
+    ],
+    "Metascore": "90",
+    "imdbRating": "8.6",
+    "imdbVotes": "1,245,210",
+    "imdbID": "tt0076759",
+    "Type": "movie",
+    "DVD": "10 Oct 2016",
+    "BoxOffice": "$460,998,507",
+    "Production": "Lucasfilm Ltd.",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Baby",
+    "Year": "2015",
+    "Rated": "Not Rated",
+    "Released": "23 Jan 2015",
+    "Runtime": "159 min",
+    "Genre": "Action, Thriller",
+    "Director": "Neeraj Pandey",
+    "Writer": "Neeraj Pandey",
+    "Actors": "Akshay Kumar, Danny Denzongpa, Rana Daggubati, Taapsee Pannu",
+    "Plot": "An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTdhNjBjZDctYTlkYy00ZGIxLWFjYTktODk5ZjNlMzI4NjI3XkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "75%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "53,139",
+    "imdbID": "tt3848892",
+    "Type": "movie",
+    "DVD": "16 Dec 2015",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Hell or High Water",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "26 Aug 2016",
+    "Runtime": "102 min",
+    "Genre": "Action, Crime, Drama, Thriller, Western",
+    "Director": "David Mackenzie",
+    "Writer": "Taylor Sheridan",
+    "Actors": "Dale Dickey, Ben Foster, Chris Pine, William Sterchi",
+    "Plot": "A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 46 wins & 167 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ],
+    "Metascore": "88",
+    "imdbRating": "7.6",
+    "imdbVotes": "207,516",
+    "imdbID": "tt2582782",
+    "Type": "movie",
+    "DVD": "08 Nov 2016",
+    "BoxOffice": "$27,007,844",
+    "Production": "Odd Lot Entertainment, Sidney Kimmel Entertainment, LBI Entertainment, Film 44, CBS Films",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
