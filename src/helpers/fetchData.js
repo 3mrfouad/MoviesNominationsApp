@@ -16,7 +16,7 @@ export const fetchData =
 
 async function fetchDataBySearchTerm(search) {
     const response = await axios
-        .get(`http://omdbapi.com/?s=${search}&type=movie&apikey=42585e73`);
+        .get(`https://omdbapi.com/?s=${search}&type=movie&apikey=42585e73`);
     const items = response?.data?.Search || [];
     return items;
 }
@@ -28,7 +28,7 @@ export const fetchDataById = async (items, nominated) => {
     await Promise.all(
         items.map(async element => {
             let response = await axios
-                .get(`http://omdbapi.com/?i=${element.imdbID}&apikey=42585e73`)
+                .get(`https://omdbapi.com/?i=${element.imdbID}&apikey=42585e73`)
             consolidateItemsDetails
                 .push({ ...response?.data, nominated })
         })

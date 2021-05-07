@@ -3,9 +3,9 @@ import './App.css';
 import { faTrashAlt } from "@fortawesome/free-regular-svg-icons";
 import { faThumbsUp } from "@fortawesome/free-regular-svg-icons";
 import Search from './components/searchBox'
-import ItemsList from './components/ItemsList';
+import ItemsList from './components/itemsList';
 import Banner from './components/banner';
-import { fetchData, fetchDataById } from './helpers/fetchData'
+import { fetchData } from './helpers/fetchData'
 
 const styles = {
   li: 'row mb-4 pb-2 border-bottom',
