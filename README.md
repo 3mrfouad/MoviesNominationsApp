@@ -5,7 +5,7 @@
 This is a demo app meant for Shopify job application.
 It uses IMDB free web API to display a list of movies based on user search, with ability to nominate up to 5 movies.
 
-![Application snapshot](./doc/appscreenshot.png)
+![Application snapshot](./doc/AppScreenShot.png)
 
 ---
 
