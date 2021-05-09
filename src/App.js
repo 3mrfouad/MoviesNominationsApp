@@ -59,11 +59,11 @@ function App() {
     if (nominations.style.display !== "block") {
       searchResults.style.display = "none";
       nominations.style.display = "block";
-      showNominationsBtn.innerText = "Back to search";
+      showNominationsBtn.innerText = "\u21E8 Search Results";
     } else {
       nominations.style.display = "none";
       searchResults.style.display = "block";
-      showNominationsBtn.innerText = "Nominations";
+      showNominationsBtn.innerText = "Nominations \u21E6";
     }
   }
 
@@ -86,9 +86,9 @@ function App() {
             type="button"
             id="show-nominations"
             onClick={showNominations}
-            className="btn btn-outline-light btn-sm"
+            className="btn btn-outline-light btn-sm fx-xs"
           >
-            Nominations
+            Nominations &#8678;
           </button>
         </nav>
       </header>
