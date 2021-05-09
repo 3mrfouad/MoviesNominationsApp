@@ -6,6 +6,8 @@ import Search from "./components/searchBox";
 import ItemsList from "./components/itemsList";
 import Banner from "./components/banner";
 import { fetchData } from "./helpers/fetchData";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
 
 const styles = {
   li: "row mb-4 pb-2 border-bottom",
@@ -78,9 +80,13 @@ function App() {
         <nav className="navbar navbar-light bg-color-green fixed-top">
           <span className="navbar-brand text-white mb-0 h1">
             The Shoppies{" "}
-            <span className="fs-xs d-block font-italic">
-              Nominate your favorite movie
-            </span>
+            <a
+              className="btn btn-warning btn-sm fs-fx"
+              href="https://github.com/3mrfouad/MoviesNominationsApp"
+              target="_blank"
+            >
+              <FontAwesomeIcon icon={faGithub} /> GitHub Repo
+            </a>
           </span>
           <button
             type="button"
