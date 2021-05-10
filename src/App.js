@@ -94,7 +94,7 @@ function App() {
             onClick={showNominations}
             className="btn btn-outline-light btn-sm fx-xs"
           >
-            Nominations &#8678;
+            {`Nominations \u21E6`};
           </button>
         </nav>
       </header>
