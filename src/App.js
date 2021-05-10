@@ -81,7 +81,7 @@ function App() {
           <span className="navbar-brand text-white mb-0 h1">
             The Shoppies{" "}
             <a
-              className="btn btn-warning btn-sm fs-fx"
+              className="btn btn-warning btn-sm fs-fx d-block"
               href="https://github.com/3mrfouad/MoviesNominationsApp"
               target="_blank"
               rel="noreferrer"
@@ -95,7 +95,7 @@ function App() {
             onClick={showNominations}
             className="btn btn-outline-light btn-sm fx-xs"
           >
-            {`Nominations \u21E6`};
+            {`Nominations \u21E6`}
           </button>
         </nav>
       </header>
