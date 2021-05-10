@@ -84,6 +84,7 @@ function App() {
               className="btn btn-warning btn-sm fs-fx"
               href="https://github.com/3mrfouad/MoviesNominationsApp"
               target="_blank"
+              rel="noreferrer"
             >
               <FontAwesomeIcon icon={faGithub} /> GitHub Repo
             </a>
